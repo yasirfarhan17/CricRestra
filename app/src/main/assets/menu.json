@@ -1,0 +1,230 @@
+{
+  "menus": [
+    {
+      "restaurantId": 1,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Appeteasers",
+          "menuItems": [
+            {
+              "id": "94298",
+              "name": "3 Chicken Wings",
+              "description": "Tender, Spicy and Juicy. Original",
+              "price": "250.00",
+              "images": [
+              ]
+            },
+            {
+              "id": "94301",
+              "name": "Chicken Livers and Portuguese Roll",
+              "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll",
+              "price": "250.00",
+              "images": [
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26576",
+          "name": "Rice Item",
+          "menuItems": []
+        }
+      ]
+    },
+    {
+      "restaurantId": 2,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Americano",
+          "menuItems": [
+            {
+              "id": "94298",
+              "name": "Barian",
+              "description": "Tender, Spicy and Juicy. Original",
+              "price": "250.00",
+              "images": [
+              ]
+            },
+            {
+              "id": "94301",
+              "name": "Chicken Livers and Portuguese Roll",
+              "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll",
+              "price": "250.00",
+              "images": [
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26576",
+          "name": "Rice Item",
+          "menuItems": []
+        }
+      ]
+    },
+    {
+      "restaurantId": 3,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Biryani",
+          "menuItems": [
+            {
+              "id": "94298",
+              "name": "biryani",
+              "description": "Tender, Spicy and Juicy. Original",
+              "price": "250.00",
+              "images": [
+              ]
+            },
+            {
+              "id": "94301",
+              "name": "muglai biryani ",
+              "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll",
+              "price": "250.00",
+              "images": [
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26576",
+          "name": "Rice Item",
+          "menuItems": [
+            {
+              "id": "94298",
+              "name": "Zira Rice",
+              "description": "Tender, Spicy and Juicy. Original",
+              "price": "250.00",
+              "images": [
+              ]
+            },
+            {
+              "id": "94301",
+              "name": "Normal",
+              "description": "Hot and cool",
+              "price": "250.00",
+              "images": [
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "restaurantId": 4,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Dessert",
+          "menuItems": [
+            {
+              "id": "94298",
+              "name": "3 Chicken Wings",
+              "description": "Tender, Spicy and Juicy. Original",
+              "price": "250.00",
+              "images": [
+              ]
+            },
+            {
+              "id": "94301",
+              "name": "Chicken Livers and Portuguese Roll",
+              "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll",
+              "price": "250.00",
+              "images": [
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26576",
+          "name": "Rice Item",
+          "menuItems": []
+        }
+      ]
+    },
+    {
+      "restaurantId": 5,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Appeteasers",
+          "menuItems": [
+            {
+              "id": "94298",
+              "name": "3 Chicken Wings",
+              "description": "Tender, Spicy and Juicy. Original",
+              "price": "250.00",
+              "images": [
+              ]
+            },
+            {
+              "id": "94301",
+              "name": "Chicken Livers and Portuguese Roll",
+              "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll",
+              "price": "250.00",
+              "images": [
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26576",
+          "name": "Rice Item",
+          "menuItems": [
+            {
+              "id": "94298",
+              "name": "Zira Rice",
+              "description": "Tender, Spicy and Juicy. Original",
+              "price": "250.00",
+              "images": [
+              ]
+            },
+            {
+              "id": "94301",
+              "name": "Normal",
+              "description": "Hot and cool",
+              "price": "250.00",
+              "images": [
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "restaurantId": 6,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Appeteasers",
+          "menuItems": [
+            {
+              "id": "94298",
+              "name": "3 Chicken Wings",
+              "description": "Tender, Spicy and Juicy. Original",
+              "price": "250.00",
+              "images": [
+              ]
+            },
+            {
+              "id": "94301",
+              "name": "Chicken Livers and Portuguese Roll",
+              "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll",
+              "price": "250.00",
+              "images": [
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26576",
+          "name": "Rice Item",
+          "menuItems": []
+        }
+      ]
+    }
+  ]
+}
